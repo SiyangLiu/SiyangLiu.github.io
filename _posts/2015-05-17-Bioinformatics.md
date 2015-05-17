@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Genetic Testing'
+title: 'Bioinformatics'
 categories:
     - Frontiers
 tags:
