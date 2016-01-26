@@ -1,7 +1,8 @@
 <!-- 多说评论框 start -->
-<div class="ds-thread" data-thread-key="{{ page.path }}" data-title="{{ page.title }}" data-url="{{ page.permalink }}"></div>
 <!-- 多说评论框 end -->
 <!-- 多说公共JS代码 start (一个网页只需插入一次) -->
+<!--
+<div class="ds-thread" data-thread-key="{{ page.path }}" data-title="{{ page.title }}" data-url="{{ page.permalink }}"></div>
 <script type="text/javascript">
 var duoshuoQuery = {short_name:"blogfungenomics"};
 	(function() {
@@ -13,6 +14,7 @@ var duoshuoQuery = {short_name:"blogfungenomics"};
 		 || document.getElementsByTagName('body')[0]).appendChild(ds);
 	})();
 </script>
+-->
 <!-- 多说公共JS代码 end -->
 
 
